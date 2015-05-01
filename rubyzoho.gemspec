@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.licenses = ['MIT']
   s.platform = Gem::Platform::RUBY
   s.require_paths = ['lib']
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 1.9.2'
   s.summary = 'A set of Ruby classes supporting the ActiveRecord lifecycle for the Zoho API. Supports Rails and Devise.'
 
   s.add_runtime_dependency(%q<activemodel>, ['>= 3.0'])
